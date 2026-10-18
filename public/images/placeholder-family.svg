@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title>Family photo placeholder</title>
+  <desc>Replace this file with a real family or lifestyle photograph.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E7F4F2"/>
+      <stop offset="100%" stop-color="#F7F3EA"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#sky)"/>
+  <rect x="70" y="90" width="760" height="840" rx="40" fill="#FFFCF6" stroke="#1A2F36" stroke-opacity="0.08"/>
+  <circle cx="330" cy="430" r="70" fill="#C9A48A"/>
+  <circle cx="470" cy="410" r="76" fill="#D4B39A"/>
+  <ellipse cx="330" cy="620" rx="110" ry="150" fill="#2FA4B0"/>
+  <ellipse cx="490" cy="610" rx="120" ry="160" fill="#1E7C89"/>
+  <ellipse cx="250" cy="780" rx="90" ry="55" fill="#8EC8DE"/>
+  <ellipse cx="250" cy="755" rx="42" ry="38" fill="#5BA8C9"/>
+  <circle cx="232" cy="742" r="6" fill="#1A2F36"/>
+  <ellipse cx="620" cy="790" rx="100" ry="58" fill="#4EC4C8"/>
+  <ellipse cx="620" cy="762" rx="46" ry="40" fill="#2FA4B0"/>
+  <circle cx="604" cy="748" r="6" fill="#1A2F36"/>
+  <text x="450" y="980" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#4A6168">Family photo placeholder</text>
+  <text x="450" y="1020" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#6F848B">Replace public/images/placeholder-family.svg</text>
+</svg>
